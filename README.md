@@ -17,7 +17,7 @@ At the top of the PHP page, add these codes.
 <?php
 
   require 'Session.php';
-  require 'Toke.class.php';
+  require 'Token.class.php';
 
 ?>
 
