@@ -6,6 +6,7 @@
 	{
 		public static function generate()
 		{
+			//Generating a random 48 long key
 			return $_SESSION['token'] = base64_encode(openssl_random_pseudo_bytes(48));
 		}
 
