@@ -78,7 +78,5 @@ You can use Echo $generated_token; to print out your generate Token. Lets assume
 
 ```
 
-##Thanks
-
-* EagleTDW
-* Nipuni S. P.
+<hr>
+Made with <span style="color:red">&heart;</span> from Sri Lanka
