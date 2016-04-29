@@ -79,4 +79,4 @@ You can use Echo $generated_token; to print out your generate Token. Lets assume
 ```
 
 <hr>
-Made with <span style="color:red">&hearts;</span> from Sri Lanka
+Made with :heart: from Sri Lanka
