@@ -2,7 +2,7 @@
 This small class will help you to generate a token for check against CSRF
 
 
-##Usage
+## Usage
 
 Download and extract following files to your PHP script directory.
 
@@ -38,7 +38,7 @@ Use following code to generate a Token using PHPToken.
 
 You can use Echo $generated_token; to print out your generate Token. Lets assume you posted the token using POST method to another PHP page.
 
-######Sample form
+###### Sample form
 
 ```html
 <?php 
@@ -62,7 +62,7 @@ You can use Echo $generated_token; to print out your generate Token. Lets assume
 
 ```
 
-######Sample PHP page
+###### Sample PHP page
 
 ```php
 <?php
